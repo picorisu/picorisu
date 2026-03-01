@@ -1,3 +1,5 @@
+<img width="2528" height="1014" alt="picorisu_index" src="https://github.com/user-attachments/assets/cdbf8cf5-61f7-4ff1-9278-4ee7537f846d" />
+
 # Hi, I’m PicoRisu! 💻🐿️
 森の奥でAndroidアプリを個人開発しているぴこリスです。
 
