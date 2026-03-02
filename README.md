@@ -3,7 +3,7 @@
 # Welcome to Picorisu Labo!💻🐿️
 
 森の奥でAndroidアプリを個人開発しているぴこリスです。  
-I'm Picorisu, a solo developer of Android apps deep in the forest.🌲
+I'm Picorisu, a solo developer of Android apps in the deep forest.🌲
 
 ### 🎨 アプリ開発絵日記
 - X（Twitter）にて、開発の裏側やこだわりを絵日記で発信中✨
