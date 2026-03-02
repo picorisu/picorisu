@@ -1,7 +1,9 @@
 <img width="2405" height="667" alt="picorisu_index" src="https://github.com/user-attachments/assets/484c58f7-e77c-4401-8e2a-573da50e696e" />
 
-# Hi, I’m PicoRisu! 💻🐿️  Welcom to Picorisu Labo!
+# Welcom to Picorisu Labo!💻🐿️
+
 森の奥でAndroidアプリを個人開発しているぴこリスです。
+I'm Picoris, a solo developer of Android apps deep in the forest.🌲
 
 ### 🎨 アプリ開発絵日記
 - X（Twitter）にて、開発の裏側やこだわりを絵日記で発信中✨
