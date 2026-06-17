@@ -20,6 +20,10 @@ I'm picorisu, a solo developer 🐿️ in the deep forest.🌲
 
 ### 🌿 Message
 
-「誰かの力になりたい」という想いを込めて、安心して使える「人に優しいアプリ」を目指してるよ💗 
+「誰かの力になりたい」という想いを込めて、安心して使える「人に優しいアプリ」を目指してるよ🤍
 
 あなたの毎日が少しでも軽やかになりますように🌿
+
+I build apps that are safe and kind — because I want to make someone's day a little easier 🤍
+
+May your days feel just a little lighter 🌿
